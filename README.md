@@ -49,6 +49,7 @@ DB_PASSWORD=secret
 ### Tests uitvoeren
 
 Voer het commando `php artisan test` uit om de tests te draaien. Dit zorgt ervoor dat de functionaliteit van de applicatie grondig wordt getest.
+De CSV-bestanden die via tests worden aangemaakt kun je vinden in de storage/framework/testing/disks/local/csv directory.
 
 ## Gebruik
 
