@@ -42,8 +42,8 @@ DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=tenzinger_transport_compensation_test
-DB_USERNAME=root
-DB_PASSWORD=secret
+DB_USERNAME=vul-in
+DB_PASSWORD=vul-in
 ```
 
 ### Tests uitvoeren
